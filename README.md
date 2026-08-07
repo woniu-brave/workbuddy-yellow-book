@@ -27,3 +27,26 @@
 
 作者：蜗牛  
 公众号：挺身而出的蜗牛
+
+## 关于作者
+
+**蜗牛 — AI 博主、创业者。**
+
+| 平台 | 链接 |
+| --- | --- |
+| 𝕏 Twitter | [@isanameonly](https://x.com/isanameonly) |
+| 📕 小红书 | 挺身而出的蜗牛 |
+| 💬 公众号 | 微信搜索「挺身而出的蜗牛」或扫码关注 ↓ |
+| 🐙 GitHub | [@woniu-brave](https://github.com/woniu-brave) |
+
+<table>
+  <tr>
+    <td width="160" align="center">
+      <img src="assets/wechat-qr-000.jpg" width="140" alt="微信公众号 挺身而出的蜗牛 二维码">
+    </td>
+    <td>
+      <strong>微信搜索「挺身而出的蜗牛」</strong><br>
+      或扫描左侧二维码关注公众号
+    </td>
+  </tr>
+</table>
