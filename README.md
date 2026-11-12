@@ -6,17 +6,16 @@
 
 ## 下载
 
-- **在线阅读（推荐）**：[WorkBuddy-Yellow-Book-v2.0.0.html](./WorkBuddy-Yellow-Book-v2.0.0.html) —— 全书矢量重排，目录可点击跳转，文字可选中 / 复制 / 搜索，与原 PDF 逐页一致。
-- **PDF 下载**：[WorkBuddy-Yellow-Book-v2.0.0.pdf](./WorkBuddy-Yellow-Book-v2.0.0.pdf) —— 同版式打印 / 导出形态。
+最新版 PDF 直接在仓库根目录：[WorkBuddy-Yellow-Book-v2.0.0.pdf](./WorkBuddy-Yellow-Book-v2.0.0.pdf)
 
 | 版本 | 发布时间 | 页数 | 章 / 附录 | 文件 |
 | --- | --- | --- | --- | --- |
-| **v2.0.0（当前）** | 2026 年 11 月 | 93 页（HTML）/ 88 页（PDF） | 11 章 + 6 附录（HTML 另含 人机双写、Buddy One 两节） | [HTML](./WorkBuddy-Yellow-Book-v2.0.0.html) · [PDF](./WorkBuddy-Yellow-Book-v2.0.0.pdf) |
+| **v2.0.0（当前）** | 2026 年 11 月 | 93 页 | 11 章 + 6 附录（含 人机双写、Buddy One 两节） | [PDF](./WorkBuddy-Yellow-Book-v2.0.0.pdf) |
 | v1.0 | 2026 年 8 月 | 104 页 | 10 章 + 5 附录 | [archive/WorkBuddy-Yellow-Book-v1.0.pdf](./archive/WorkBuddy-Yellow-Book-v1.0.pdf) |
 
-格式：HTML（在线阅读，推荐）/ PDF（打印导出）。也可前往 [Releases](../../releases) 查看已发布的版本。
+格式：PDF。也可前往 [Releases](../../releases) 查看已发布的版本。
 
-> 说明：HTML 为当前官方浏览版，在第 4 章末、第 9 章末补充了「人机双写」「Buddy One」两节；PDF 为同版式导出形态，未含这两节新增内容。
+> 说明：v2.0.0 在第 4 章末、第 9 章末补充了「人机双写」「Buddy One」两节，全书共 93 页。
 
 ## v2.0.0 更新要点
 
@@ -31,14 +30,14 @@
 ## 说明
 
 - 本书为个人整理的非官方学习资料，产品功能与界面请以 WorkBuddy 官方文档和实际版本为准。
-- 欢迎把本书官方发布的版本（HTML 与 PDF）分享给正在学习 AI 与 Agent 的朋友。
+- 欢迎把本书官方发布的 PDF 分享给正在学习 AI 与 Agent 的朋友。
 - 发现错误，或希望补充新的使用场景，欢迎提交 Issue。
 
 ## 版权与使用
 
 本书采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议发布。
 
-你可以在署名并保留许可证信息的前提下，分享本书官方发布的版本（HTML 与 PDF）。不得将其用于商业用途。
+你可以在署名并保留许可证信息的前提下，分享本书官方发布的 PDF。不得将其用于商业用途。
 
 「禁止演绎（ND）」约束的是第三方：他人不得发布对本书进行修改、翻译或改编后的版本。本书作者在官方版本中增补的内容（如「人机双写」「Buddy One」两节）属于官方更新，不受此限。若你希望开放读者基于本书进行二次创作与分享，可联系作者将许可改为 CC BY-NC 4.0。
 
